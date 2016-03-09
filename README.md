@@ -9,3 +9,5 @@ Once I'm done and figure out how to package this properly you won't have to do t
 5. add "color_scheme": "Packages/User/SublimeLinter/Arc (SL).tmTheme", to your prefs file or add through the user menu
 
 Permission granted for use of assets by Horst3180.
+
+![alt tag](arc-dark.png)
