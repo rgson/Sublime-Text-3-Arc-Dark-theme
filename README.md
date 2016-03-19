@@ -1,4 +1,4 @@
-# Sublime-Text-3-Arc-Dark-theme
+# Sublime Text 3 Arc-Dark theme
 
 Once I'm done and figure out how to package this properly you won't have to do this below.
 
